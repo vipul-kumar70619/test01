@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
   cout<<"hello ji kya haal hai<<endl;
+  cout<<" editimg by using pencil icon;
 
 return 0;
 }
